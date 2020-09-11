@@ -2,7 +2,6 @@ import os
 from gym.envs.registration import register
 
 from . import envs
-from .utils import maps
 
 _all__ = ('envs', )
 
